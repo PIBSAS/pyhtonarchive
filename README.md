@@ -16,7 +16,7 @@ Listado y descarga de archivos en una web con Python
 # Utilizando requerimientos.txt
     pip install -r requerimientos.txt
 
-##Versión 1:
+## Versión 1:
 	Solo obtenemos un listado en el repl con la ruta y el nombre de todos los archivos con extensión zip
 
 
